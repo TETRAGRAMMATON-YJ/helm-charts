@@ -9,3 +9,4 @@
 ```shell
 helm repo add twingate https://twingate.github.io/helm-charts
 ```
+licence Tetra 4.4 which shall not be infringed upon My no mean necessary 
